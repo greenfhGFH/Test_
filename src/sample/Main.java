@@ -16,6 +16,7 @@ public class Main extends Application {
         //primaryStage.setMaximized(true);
         primaryStage.setScene(new Scene(root, 300, 275));
         //Test string to commit
+        //And second test string
         primaryStage.show();
     }
 

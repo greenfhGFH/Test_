@@ -15,7 +15,7 @@ public class Main extends Application {
         primaryStage.setFullScreen(true);
         //primaryStage.setMaximized(true);
         primaryStage.setScene(new Scene(root, 300, 275));
-
+        //Test string to commit
         primaryStage.show();
     }
 
